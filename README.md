@@ -6,4 +6,5 @@ In this project, we will attempt to predict the prices of Bitcoin using linear r
 ## Summary and Future Outlook
 For my future analysis, I would like to use Long Short-Term Memory (LSTM) machine learning model to predict the prices of Bitcoin. LSTM cells can learn the iomportant parts of the sequence seen so far in the historicala data of Bitcoin and forget the less important ones.
 
-![Forecast Image](https://github.com/mikiokaji/Bitcoin-Price-Prediction-Using-Linear-Regression/Images/forecast_img.png)
+
+![Forecast Image](https://github.com/mikiokaji/Bitcoin-Price-Prediction-Using-Linear-Regression/blob/main/Images/forecast_img.png)
