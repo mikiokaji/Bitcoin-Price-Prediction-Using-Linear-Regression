@@ -48,7 +48,7 @@ So lag features let us fit curves to *lag plots* where each observation in a
 series is plotted against the previous observation.
 
 <p align="center">
-    <img src="https://github.com/mikiokaji/Time-Series-Forecasting-of-Bitcoin/blob/main/images/img2.png" height=250, width=250>
+    <img src="https://github.com/mikiokaji/Time-Series-Forecasting-of-Bitcoin/blob/main/images/img2.png" height=300, width=300>
 </p>
 
 We can see from the lag plot that market cap on one day (`Maarket Cap`) is correlated with market cap from the previous day (`Lag_1`).
