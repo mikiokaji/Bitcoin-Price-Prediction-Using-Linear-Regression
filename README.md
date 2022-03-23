@@ -2,7 +2,7 @@
 
 Bitcoin is the first decentralized digital currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.
 
-In this project, we will attempt to predict the prices of Bitcoin using linear regression. The training dataset for the project was collected from (URL). The data contains Bitcoin prices from April of 2013 to July of 2017.
+In this project, I will attempt to predict the prices of Bitcoin using linear regression. The training dataset for the project was collected from (URL). The data contains Bitcoin prices from April of 2013 to July of 2017.
 
 ## Exploratory Data Analysis
 
