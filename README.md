@@ -2,7 +2,7 @@
 
 Bitcoin is the first decentralized digital currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.
 
-In this project, I will attempt to predict the prices of Bitcoin using linear regression. The training dataset for the project was collected from (URL). The data contains Bitcoin prices from April of 2013 to July of 2017.
+In this project, we will attempt to predict the prices of Bitcoin using linear regression. The training data set contains Bitcoin prices from April of 2013 to July of 2017.
 
 ## Exploratory Data Analysis
 
@@ -10,7 +10,7 @@ Some definitions to keep in mind throughout the project...
 
 - 'Volume' is the sum total of actual trades taking place. Liquidity is the amount available for trade at any single price.
 
-- Higher volume usually means there is more liquidity - basicallya measure of how much people are trading in that particular day.
+- Higher volume usually means there is more liquidity - basically a measure of how much people are trading in that particular day.
 
 - Market cap is the open column times the amount of 'active' Bitcoins.
 
@@ -74,8 +74,8 @@ To make a forecast, we will apply our model to "out of sample" features, which r
 
 ![img4](https://github.com/mikiokaji/Time-Series-Forecasting-of-Bitcoin/blob/main/images/img4.png)
 
-There was a divergence in data at the end of the plot. Our model was unable to accurately forecast the prices of Bitcoin after July 2017. One reason for this huge rise in bitcoin price is that there has been a big influx of investors from large-scale institutions such as pension schemes, university endowmend funds and investment trusts.
+There was a divergence in data at the end of the plot. Our model was unable to accurately forecast the prices of Bitcoin after July 2017. One reason for this huge rise in Bitcoin price is that there has been a big influx of investors from large-scale institutions such as pension schemes, university endowmend funds and investment trusts.
 
 ## Summary and Future Outlook
 
-For my future analysis, I would like to use Long Short-Term Memory (LSTM) machine learning model to predict the prices of Bitcoin. LSTM cells can learn the iomportant parts of the sequence seen so far in the historicala data of Bitcoin and forget the less important ones.
+For our future analysis, we would like to use Long Short-Term Memory (LSTM) machine learning model to predict the prices of Bitcoin. LSTM cells can learn the iomportant parts of the sequence seen so far in the historicala data of Bitcoin and forget the less important ones.
