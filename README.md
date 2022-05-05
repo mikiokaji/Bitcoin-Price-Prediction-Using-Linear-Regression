@@ -24,7 +24,7 @@ In this project, we will choose **Market Cap** as our target variable.
 
 Time-step features are features we can derive directly from the
 time index. We will start with the **time dummy**, which counts off time
-steps in the series in the series from beginning to end.
+steps in the series from beginning to end.
 
 Linear regression with the time dummy produces the following model:
 
